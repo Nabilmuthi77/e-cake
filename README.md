@@ -4,7 +4,7 @@ Terimakasih kepada Beliau (Pak Avip Kurniawan) yang telah membimbing dan mengaja
 <br>
 
 <h3>Notice !</h3>
-Web ini cocok digunakan untuk kasir yang mengelola menu order, seperti : Kedai kopi, Kedai Makanan, Kedai Ice dan lain-lain.
+Web Simple ini cocok digunakan untuk kasir yang mengelola menu order, seperti : Kedai kopi, Kedai Makanan, Kedai Ice, Kedai Kue dan lain-lain.
 
 <br> <br> <br>
 ~ Nabil Muthi Maulani
