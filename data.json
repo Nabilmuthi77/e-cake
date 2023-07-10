@@ -1,0 +1,52 @@
+[
+    {
+        "nama": "Nabil Muthi Maulani",
+        "nomor_kursi": "0",
+        "jenis_kue": "Vanilla Cake",
+        "tipe_pesanan": "Dibungkus",
+        "harga_kue": "20000",
+        "diskon_kue": "1000",
+        "harga_total": 19000,
+        "pembayaran": "Sudah Bayar"
+    },
+    {
+        "nama": "Maulana Yolanda",
+        "nomor_kursi": "0",
+        "jenis_kue": "Strawberry Cake",
+        "tipe_pesanan": "Dibungkus",
+        "harga_kue": "15000",
+        "diskon_kue": "4500",
+        "harga_total": 10500,
+        "pembayaran": "Belum Bayar"
+    },
+    {
+        "nama": "Alvin Austin",
+        "nomor_kursi": "89",
+        "jenis_kue": "Special Pudding",
+        "tipe_pesanan": "Makan Disini",
+        "harga_kue": "30000",
+        "diskon_kue": "3000",
+        "harga_total": 27000,
+        "pembayaran": "Belum Bayar"
+    },
+    {
+        "nama": "Yusup Suppriatna",
+        "nomor_kursi": "24",
+        "jenis_kue": "Strawberry Cake",
+        "tipe_pesanan": "Makan Disini",
+        "harga_kue": "15000",
+        "diskon_kue": "4500",
+        "harga_total": 10500,
+        "pembayaran": "Sudah Bayar"
+    },
+    {
+        "nama": "Seseilia Vanesya",
+        "nomor_kursi": "76",
+        "jenis_kue": "Strawberry Cake",
+        "tipe_pesanan": "Makan Disini",
+        "harga_kue": "15000",
+        "diskon_kue": "4500",
+        "harga_total": 10500,
+        "pembayaran": "Sudah Bayar"
+    }
+]
